@@ -1,0 +1,11 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: PowerGiphy
+
+giphy:
+  api:
+    key: Kwxl4LWSNThzfFJ5VEpWuqqxpOM21qI4
+    host: https://api.giphy.com/
